@@ -1,0 +1,27 @@
+:root {
+    --purble-color: #fb63db;
+    --white-color: #ffffff;
+    --black-color: #000;
+    --nav-weight: 600;
+    --gray-color: #6F6E7E;
+    --h2-color: #d3d2d8;
+}
+.status {
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+.status h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: var(--white-color);
+}
+.status h3 {
+    font-size: 20px;
+    color: var(--gray-color);
+}
+.operational li{
+    color: rgb(74, 179, 74);
+}
+span {
+    color: var(--white-color);
+}

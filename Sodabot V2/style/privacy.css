@@ -1,0 +1,28 @@
+:root {
+    --purble-color: #fb63db;
+    --white-color: #ffffff;
+    --black-color: #000;
+    --nav-weight: 600;
+    --gray-color: #6F6E7E;
+    --h2-color: #d3d2d8;
+}
+.privacy-page {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    max-width: 1000px;
+    margin-bottom: 100px;
+}
+.privacy-page h1 {
+    color: var(--white-color);
+    font-weight: 1000;
+    font-size: 50px;
+}
+.privacy-page h2 {
+    color: var(--h2-color);
+}
+.privacy-page p {
+    color: var(--gray-color);
+    font-size: 20px;
+    font-weight: 800;
+}
